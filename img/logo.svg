@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="318" height="120" viewBox="0 0 318 120">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 45.908px;
+        font-family: "Montserrat Alternates";
+        font-weight: 500;
+      }
+    </style>
+  </defs>
+  <text id="Индекс.Ларёк" class="cls-1" transform="matrix(0.627, 0, 0, 0.627, 60.323, 67.828)">Индекс.Ларёк</text>
+  <image id="barcode" x="12" y="47" width="36" height="26" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAaCAYAAADfcP5FAAABA0lEQVRIie3XPUoEQRCG4Wf9C1wVV02NDTyDdzAXBA8gHkAEY8HE3DOYCYKBuQfxAP4toq401sDsuEOFJv1CU1NfdVd9TFYDp5MJrnCCG+zhFoehH+DbNGNs4xiX2MEi7iMe4Q7PuI7eD9jFEOe4wBMesY+zoi/EmNWI69jEWkvf8JdxKMthYD7OVuRLUR+2eo2i3ugiH7W1uc6oSU/sI6vP6qnzx6fqXUP/TjWUUQ1lVEMZ1VBGNZRRDWVUQxnVUEY1lFENZXQNDXpiH1l9Vs9Ce+5UvdnLmj3rFS94i/w9vr86Q5r7HxHLWlNOWQzLXvYZenlXejS9S32l9b7kRf/tiR9vlTIWND+zLwAAAABJRU5ErkJggg=="/>
+</svg>
